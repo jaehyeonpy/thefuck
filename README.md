@@ -349,6 +349,8 @@ following rules are enabled by default:
 * `yarn_command_replaced` &ndash; fixes replaced `yarn` commands;
 * `yarn_help` &ndash; makes it easier to open `yarn` documentation;
 * `git_merge_mistake` &ndash; fixes slash mistake in git merge;
+* `git_add_forgot_git` &ndash; fixes 'add' command to git add -A;
+
 
 ##### [Back to Contents](#contents)
 
