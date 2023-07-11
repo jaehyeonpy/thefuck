@@ -349,7 +349,14 @@ following rules are enabled by default:
 * `yarn_command_replaced` &ndash; fixes replaced `yarn` commands;
 * `yarn_help` &ndash; makes it easier to open `yarn` documentation;
 * `git_merge_mistake` &ndash; fixes slash mistake in git merge;
-* `git_add_forgot_git` &ndash; fixes 'add' command to git add -A;
+* `git_add_forgot_git` &ndash; fixes 'add' command to 'git add -A';
+* `git_add_-a_-A` &ndash; fixes 'git add -a' command to 'git add -A';
+* `git_add_no_git` &ndash; fixes 'add .' command to 'git add .
+* `git_checkout_master_no-git` &ndash; fixes 'checkout master' command to 'git checkout master';
+* `git-status-no-git` &ndash; fixes 'status' command to 'git status';
+* `git_init_no_git` &ndash; fixes 'init' command to 'git init';
+
+* `` &ndash; ;
 
 
 ##### [Back to Contents](#contents)
